@@ -1,0 +1,44 @@
+<svg width="100%" height="100%" viewBox="0 0 1280 659" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+	<style>
+        [class^=obj] {opacity: 0;animation: fadeInOut 8s linear infinite;transform-origin:center}
+        .obj1 {animation-delay: 0s;}
+        .obj2 {animation-delay: 1s;}
+        .obj3 {animation-delay: 8s;}
+        .obj4 {animation-delay: 0.6s;}
+        .obj5 {animation-delay: 1s;}
+        .obj6 {animation-delay: 5s;}
+        .obj7 {animation-delay: 0.8s;}
+        .obj8 {animation-delay: 2.5s;}
+        .obj9 {animation-delay: 2s;}
+        .obj10 {animation-delay: 0.2s;}
+
+        @keyframes fadeInOut {
+          0% {opacity: 0;}
+          40% {opacity: 1;}
+          60% {opacity: 1;}
+          100% {opacity: 0;}
+        }
+    </style>
+    <g class="obj1" transform="matrix(1,0,0,1,-159.108,-167.566)">
+        <path d="M217.083,312.41C224.87,304.518 224.786,291.807 216.894,284.02L202.793,298.31L217.083,312.41Z" style="fill:rgb(108,203,195);fill-rule:nonzero;"/>
+    </g>
+    <g class="obj2" transform="matrix(1,0,0,1,-159.108,-167.566)">
+        <path d="M159.108,637.148C159.113,643.433 161.515,649.716 166.313,654.507L183.665,637.13L159.108,637.148Z" style="fill:rgb(62,151,209);fill-rule:nonzero;"/>
+    </g>
+    <g class="obj3" transform="matrix(1,0,0,1,-159.108,-167.566)">
+        <path d="M739.512,207.061C738.247,205.796 736.196,205.796 734.931,207.061C733.666,208.326 733.666,210.377 734.931,211.642L753.115,229.826C754.38,231.091 756.431,231.091 757.696,229.826C758.961,228.561 758.961,226.51 757.696,225.245L739.512,207.061Z" style="fill:rgb(86,134,253);fill-rule:nonzero;"/>
+    </g>
+    <g class="obj4" transform="matrix(1,0,0,1,-159.108,-167.566)">
+        <path d="M690.625,167.566C688.836,167.566 687.386,169.016 687.386,170.805C687.386,172.594 688.836,174.044 690.625,174.044L704.821,174.044C706.61,174.044 708.06,172.594 708.06,170.805C708.06,169.016 706.61,167.566 704.821,167.566L690.625,167.566Z" style="fill:rgb(237,86,92);fill-rule:nonzero;"/>
+    </g>
+    <g class="obj5" transform="matrix(1,0,0,1,-159.108,-167.566)">
+        <path d="M551.693,759.185C550.289,760.589 550.289,762.866 551.693,764.27C553.097,765.674 555.374,765.674 556.778,764.27L567.922,753.127C569.326,751.723 569.326,749.446 567.922,748.042C566.517,746.638 564.241,746.638 562.836,748.042L551.693,759.185Z" style="fill:rgb(237,86,92);fill-rule:nonzero;"/>
+    </g>
+    <g class="obj6" transform="matrix(1,0,0,1,-159.108,-167.566)">
+        <path d="M1266,618.779C1264.53,620.247 1264.53,622.626 1266,624.094C1267.46,625.561 1269.84,625.561 1271.31,624.094L1282.96,612.448C1284.42,610.98 1284.42,608.601 1282.96,607.133C1281.49,605.665 1279.11,605.665 1277.64,607.133L1266,618.779Z" style="fill:rgb(237,86,92);fill-rule:nonzero;"/>
+    </g>
+    <circle class="obj7" cx="1208.21" cy="74.6" r="8.941" style="fill:rgb(86,134,253);"/>
+    <circle class="obj8" cx="1273.92" cy="53.618" r="5.354" style="fill:rgb(237,86,92);"/>
+    <ellipse class="obj9" cx="468.026" cy="605.434" rx="7.676" ry="7.677" style="fill:none;stroke:rgb(251,176,59);stroke-width:8.42px;"/>
+    <circle class="obj10" cx="60.593" cy="437.301" r="6.87" style="fill:rgb(251,176,59);"/>
+</svg>
