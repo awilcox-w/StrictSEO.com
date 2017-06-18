@@ -1,2 +1,2 @@
 # StrictSEO.com
-SEO, SEM, Social, Quanified
+SEO, SEM, Lead Generation, Quanified
